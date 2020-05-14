@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Júlio César">
+    <meta http-equiv="refresh" content="0.0001">
+    <title>JavaScript Alert</title>
+</head>
+<style type="text/css">
+    
+</style>
+<script type="text/javascript">
+    window.alert("Deu Certo!")
+</script>
+<body>
+    
+</body>
+</html>
